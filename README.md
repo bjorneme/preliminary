@@ -1,4 +1,3 @@
-# preliminary
+# Preliminary Project
 
-- Swin UNETR: https://github.com/Project-MONAI/tutorials/blob/main/3d_segmentation/swin_unetr_btcv_segmentation_3d.ipynb
-- Vision Mamba: https://github.com/NVlabs/MambaVision
+Compare Multi-label classification on dataset ChestX-ray14 with and without Contrastive Learning. The SimCLR technique is used for Contrastive Learning.
